@@ -1,0 +1,8 @@
+.rechthoek {
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	background-color: grey;
+	font-size: 60px;
+	text-align: center;
+}

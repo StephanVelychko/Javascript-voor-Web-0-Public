@@ -1,0 +1,32 @@
+#cow {
+	width: 30px;
+	position: absolute;
+	top: 45%;
+	left: 45%;
+}
+
+button {
+	width: 50px;
+	height: 50px;
+	position: fixed;
+}
+
+#UP {
+	top: 0px;
+	left: 45%;
+}
+
+#DOWN {
+	bottom: 0px;
+	left: 45%;
+}
+
+#LEFT {
+	top: 45%;
+	left: 0px;
+}
+
+#RIGHT {
+	top: 45%;
+	right: 0px;
+}
